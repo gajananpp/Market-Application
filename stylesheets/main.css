@@ -1,0 +1,51 @@
+/*body {
+  background: #ccc;
+}*/
+
+
+.prototype:nth-child(1) {
+  visibility: hidden;
+  height: 0px;
+  width: 0px;
+  margin-top: -140px;
+}
+
+.row {
+  margin-top: 5px;
+}
+
+.form-control , .btn {
+  border-radius: 0px;
+}
+
+.card {
+  height: 114px;
+  margin-top: 20px;
+  /*border: 1px solid black;*/
+  box-shadow: 1px 3px 15px 0.5px grey;
+}
+
+.title {
+  background-color: #f1c40f;
+  color: #000;
+  font-weight: bold;
+  font-size: 20px;
+  font-size-adjust: auto;
+  height: 39px;
+}
+
+.title span {
+  line-height: 40px;
+}
+
+.company {
+  background-color: #3385ff;
+  color: #fff;
+  font-weight: bold;
+  font-size: 16px;
+  font-size-adjust: auto;
+}
+.headings {
+  color: #6e6e6e;
+  font-weight: bold;
+}
